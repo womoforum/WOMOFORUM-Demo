@@ -1,0 +1,8 @@
+WOMOFORUM TEST-DEMO
+
+1. Diesen gesamten Ordner auf den Desktop entpacken.
+2. index.html doppelklicken.
+3. Nicht direkt aus der ZIP-Datei öffnen.
+
+Alle benötigten Bilder und CSS-Dateien liegen in diesem Ordner.
+Es wird keine Internetverbindung benötigt.
